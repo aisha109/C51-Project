@@ -1,0 +1,29 @@
+body{
+  background-color: cornsilk;
+}
+.G2{
+  text-align: center;
+  justify-content: center;
+border:solid  }
+
+.G1{
+text-align: left;
+justify-content: left;
+border:solid 
+}
+.G3{
+  text-align: right;
+  justify-content: right;
+  border:solid 
+}
+.G4{
+  text-align: center;
+  justify-content:center;
+  border:solid 
+}
+.G5{
+  border:solid 
+}
+.Head{
+border : solid
+}
